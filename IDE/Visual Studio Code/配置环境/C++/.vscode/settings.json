@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "fibonacci": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "cstring": "cpp",
+        "new": "cpp",
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "array": "cpp",
+        "optional": "cpp",
+        "istream": "cpp",
+        "ratio": "cpp",
+        "system_error": "cpp",
+        "functional": "cpp",
+        "regex": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "bitset": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "random": "cpp",
+        "iosfwd": "cpp",
+        "map": "cpp",
+        "valarray": "cpp",
+        "complex": "cpp"
+    }
+}
